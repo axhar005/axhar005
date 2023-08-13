@@ -1,4 +1,4 @@
-# Hello, World! 👋
+<h1 align="center">Hello, World! 👋</h1>
 
 I'm Olivier, currently studying at 42 Quebec. Welcome to my GitHub profile! 🚀
 
