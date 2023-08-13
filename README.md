@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello, World! 👋
 
+I'm Olivier, currently studying at 42 Quebec. Welcome to my GitHub profile! 🚀
+
+## About Me
+
+🎓 Studying at 42 Quebec.
+💻 Full-stack enthusiast with a keen interest in web development.
+🌱 Constantly learning and exploring new technologies.
+
+## Skills
+
+🔧 Front-end: C, HTML, CSS, JavaScript.
+🚀 Version Control: Git.
+
+## Learning
+🔧 Front-end: React
+🔨 Back-end: Node.js, Express.
+🗄️ Databases: MySQL, MongoDB.
+
+## Projects
+
+🌟 Check out some of my projects right here on GitHub!
+- [Project 1](https://github.com/axhar005/libft): A library utilized in our 42 projects.
+- [Project 2](https://github.com/axhar005/so_long): A 2d game in c with mlx42 codam.
+
+## Connect
 <!--
-**axhar005/axhar005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Let's connect and collaborate:
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Email: your.email@example.com -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and get in touch. Let's create amazing things together! 😄
