@@ -10,7 +10,9 @@ I'm Olivier, currently studying at 42 Quebec. Welcome to my GitHub profile! 🚀
 
 ## Skills
 
-🔧 Front-end: C, HTML, CSS, JavaScript, gml.\
+🔧 Front-end: C, HTML, CSS, JavaScript.\
+💻 Languages: C, C++.\
+🎮 Game Development: GML.\
 🚀 Version Control: Git.
 
 ## Learning
